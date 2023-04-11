@@ -2,6 +2,9 @@
     "name": "BACS422-Insta",
     "lockfileVersion": 2,
     "requires": true,
-    "packages": {}
-  }
-  
+    "packages": {
+        "": {
+            "name": "BACS422-Insta"
+        }
+    }
+}
