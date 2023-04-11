@@ -6,5 +6,8 @@
         "": {
             "name": "BACS422-Insta"
         }
+    },
+    "dependencies": {
+        "react-scripts": "^5.0.1"
     }
 }
